@@ -17,7 +17,3 @@ In Honey Quest, you are a bee navigating through different environments. Each le
 ## Requirements
 
 - Python 3.x
-
-## License
-
-MIT License
